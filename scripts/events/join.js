@@ -66,15 +66,15 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER :Mohammad Nayan 
+DEVELOPER :𝐀𝐫𝐢𝐟𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐚𝐤𝐢𝐛 
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/www.xnxx.com169
+https://www.facebook.com/profile.php?id=100083083511110
 
-🔵WHATSAPP NUMBER: wa.me/+8801615298449
+🔵WHATSAPP NUMBER: wa.me/+8801848744823
 
-🟢SUPPORT EMAIL: www.mdmnnm2004@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: www.xarif@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
