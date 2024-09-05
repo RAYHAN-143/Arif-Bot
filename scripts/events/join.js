@@ -66,13 +66,13 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER :𝐀𝐫𝐢𝐟𝐮𝐥 𝐈𝐬𝐥𝐚𝐦 𝐑𝐚𝐤𝐢𝐛 
+DEVELOPER :𝐘𝐨𝐮𝐫 𝐏𝐚𝐩𝐚
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/profile.php?id=100083083511110
+https://www.facebook.com/profile.php?id=61552348491678
 
-🔵WHATSAPP NUMBER: wa.me/+8801848744823
+🔵WHATSAPP NUMBER: wa.me/+88018487*4*23
 
 🟢SUPPORT EMAIL: www.xarif@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
